@@ -22,41 +22,6 @@ LIT (Literature-curated)
 
 Red social de delfines (Dolphins network).
 
-## Metodología
-
-Construcción de grafos a partir de archivos .txt y .gml.
-
-Visualización de redes usando distintos layouts.
-
-Cálculo de métricas globales:
-
-Número de nodos y enlaces
-
-Grado medio, máximo y mínimo
-
-Densidad
-
-Coeficiente de clustering
-
-Transitividad
-
-Diámetro de la componente gigante
-
-Comparación estructural entre distintas redes biológicas.
-
-Análisis de homofilia en la red de delfines:
-
-Asignación de atributos de género a los nodos
-
-Cálculo de enlaces homofílicos
-
-Contraste con modelos nulos mediante:
-
-Reasignación aleatoria de atributos
-
-Recableado de la red manteniendo la distribución de grado
-
-Estimación de p-valores e índice de homofilia.
 
 ## Resultados principales
 
